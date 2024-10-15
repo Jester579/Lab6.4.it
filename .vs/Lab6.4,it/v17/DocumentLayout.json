@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Lab6.4,it\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{726B28D6-360C-418A-B73B-15D26D245CD7}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\User\\source\\repos\\Lab6.4,it\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{726B28D6-360C-418A-B73B-15D26D245CD7}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585C20C8-6274-4863-A16D-81745176E287}|Lab6.4,it\\Lab6.4,it.vcxproj|C:\\Users\\User\\source\\repos\\Lab6.4,it\\Lab6.4,it\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{585C20C8-6274-4863-A16D-81745176E287}|Lab6.4,it\\Lab6.4,it.vcxproj|solutionrelative:Lab6.4,it\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Lab6.4,it\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Lab6.4,it\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T19:25:00.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Lab6.4,it\\Lab6.4,it\\Source.cpp",
+              "RelativeDocumentMoniker": "Lab6.4,it\\Source.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Lab6.4,it\\Lab6.4,it\\Source.cpp",
+              "RelativeToolTip": "Lab6.4,it\\Source.cpp",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAiwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T19:24:18.82Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
